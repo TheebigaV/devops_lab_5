@@ -39,6 +39,7 @@ import org.apache.commons.lang3.Validate;
  *
  * @since 1.1
  */
+// Modified by MS26918488 for Assignment 5
 public class WordUtils {
 
     /**
